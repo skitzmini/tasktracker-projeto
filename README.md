@@ -94,4 +94,6 @@ Na listagem, o programa apresenta título, descrição, prioridade, data limite 
 
 A Fase 1 propõe o entendimento do problema, a decomposição dos dados e regras, a receita lógica em português, o planejamento da estrutura Git/GitHub e uma apresentação em vídeo. O documento de planejamento está em `docs/planejamento_logico.pdf` e foi elaborado agora para apoiar este trabalho; não representa uma entrega anterior nem uma aprovação da Fase 1.
 
+link do video yt : https://youtu.be/ICst5uNUlJ0
+
 A Fase 2 transforma esse planejamento em uma aplicação CLI funcional, registra a evolução com commits e prepara a publicação do repositório. A publicação pública depende de autorização do estudante. O vídeo acadêmico continua pendente e deve ser gravado pelo estudante conforme os requisitos do enunciado.
