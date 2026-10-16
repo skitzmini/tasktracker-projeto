@@ -51,17 +51,6 @@ Confira a instalação com:
 python --version
 ```
 
-## Como executar no CMD
-
-Abra o CMD e acesse a pasta do projeto. Ajuste o caminho caso a pasta esteja em outro local:
-
-```cmd
-cd /d "D:\codex\ENTREGA INTERMEDIARIA\tasktracker-projeto"
-python src\main.py
-```
-
-O menu será exibido. Digite `1` para cadastrar, `2` para listar e `3` para encerrar. Para voltar ao menu depois de uma ação, basta responder aos prompts apresentados.
-
 ## Exemplo de utilização
 
 ```text
